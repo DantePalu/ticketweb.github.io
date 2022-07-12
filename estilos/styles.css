@@ -289,7 +289,7 @@ h2{
 }
 @media (max-width: 480px){
     .header{
-        width: 480px;
+        width: 100%;
         background-color: 100%;
     }
     .logo{
